@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+
+}
+div{
+    background-color: rgb(168, 97, 97);
+    width: 400px;
+    margin: 50px;
+    border: 20px solid burlywood;
+    padding: 20px;  
+
+}
+#box{
+    color: rgb(224, 38, 21);
+}
